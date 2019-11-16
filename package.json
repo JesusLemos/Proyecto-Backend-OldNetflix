@@ -4,8 +4,9 @@
   "description": "Proyecto 2 Parte del Back-End",
   "main": "index.js",
   "scripts": {
+    "service": "node ./bin/www",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon index.js"
+    "start": "nodemon ./bin/www"
   },
   "repository": {
     "type": "git",
@@ -18,8 +19,10 @@
   },
   "homepage": "https://github.com/JesusLemos/Proyecto2Backend#readme",
   "dependencies": {
-    "express": "4.17.1",
-    "mongoose": "^5.7.10"
+    "cookie-parser": "1.4.4",
+    "debug": "2.6.9",
+    "express": "4.16.1",
+    "morgan": "1.9.1"
   },
   "devDependencies": {
     "nodemon": "1.19.4"
