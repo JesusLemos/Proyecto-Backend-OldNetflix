@@ -3,7 +3,24 @@
     {
       "nombre": "Jesus",
       "apellido": "Lemos",
-      "correo": "jesuslemosfoncubierta2@gmail.com"
+      "correo": "jesuslemosfoncubierta3@gmail.com",
+      "contrasenya": "12345678",
+      "token": {}
+    },
+    {
+      "nombre": "Jesus",
+      "apellido": "Lemos",
+      "correo": "jesuslemosfoncubierta7655@gmail.com",
+      "contrasenya": "12345678",
+      "token": "f487a954-7bb9-464b-a22d-7bb288f5b2b7"
+    },
+    {
+      "nombre": "Jesus",
+      "apellido": "Lemos",
+      "correo": "prueba@gmail.com",
+      "contrasenya": "12345678",
+      "token": "77d53e15-7ec9-4d67-a601-3a43d2823a52",
+      "login": "false"
     }
   ]
 }
