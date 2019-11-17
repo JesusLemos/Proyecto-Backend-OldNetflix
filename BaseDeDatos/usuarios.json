@@ -1,12 +1,6 @@
 {
   "usuarios": [
-    {
-      "nombre": "Jesus",
-      "apellido": "Lemos",
-      "correo": "jesuslemosfoncubierta3@gmail.com",
-      "contrasenya": "12345678",
-      "token": {}
-    },
+ 
     {
       "nombre": "Jesus",
       "apellido": "Lemos",
