@@ -3,7 +3,7 @@ const fs = require('fs')
 const controladorLogin = (req, res) => {
     const user = req.body;
     const dbUser = JSON.parse(fs.readFileSync('./BaseDeDatos/usuarios.json', 'utf-8'))
-
+    
 
 
     const buscarUsuario = dbUser.usuarios.find(usuario => usuario.correo === user.correo && usuario.contrasenya === user.contrasenya)

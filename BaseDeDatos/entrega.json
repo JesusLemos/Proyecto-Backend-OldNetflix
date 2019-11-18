@@ -1,0 +1,22 @@
+{
+  "entrega": [
+    {
+      "idpelicula": 13,
+      "idusuario": 1,
+      "nombre": "Jesus",
+      "correo": "prueba@gmail.com",
+      "title": "Red Shoes and the Seven Dwarfs",
+      "fechaalquiler": "18/11/2019  15:34",
+      "fechaentrega": "23/11/2019  15:34"
+    },
+    {
+      "idpelicula": 13,
+      "idusuario": 2,
+      "nombre": "Jesus Manuel",
+      "correo": "prueba2@gmail.com",
+      "title": "Red Shoes and the Seven Dwarfs",
+      "fechaalquiler": "18/11/2019  15:39",
+      "fechaentrega": "23/11/2019  15:39"
+    }
+  ]
+}

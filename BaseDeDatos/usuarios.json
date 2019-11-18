@@ -1,20 +1,31 @@
 {
   "usuarios": [
- 
     {
-      "nombre": "Jesus",
-      "apellido": "Lemos",
-      "correo": "jesuslemosfoncubierta7655@gmail.com",
-      "contrasenya": "12345678",
-      "token": "f487a954-7bb9-464b-a22d-7bb288f5b2b7"
-    },
-    {
+      "idusuario": 1,
       "nombre": "Jesus",
       "apellido": "Lemos",
       "correo": "prueba@gmail.com",
       "contrasenya": "12345678",
       "token": "77d53e15-7ec9-4d67-a601-3a43d2823a52",
-      "login": "false"
+      "login": "True"
+    },
+    {
+      "nombre": "Jesus Manuel",
+      "apellido": "Lemos",
+      "correo": "prueba2@gmail.com",
+      "contrasenya": "12345678",
+      "idusuario": 2,
+      "token": "84c71ad0-2148-46a0-88f2-146655966739",
+      "login": "False"
+    },
+    {
+      "nombre": "Jesus Pepe",
+      "apellido": "Lemos",
+      "correo": "prueba4@gmail.com",
+      "contrasenya": "12345678",
+      "idusuario": 3,
+      "token": "b6f4fe86-5f0f-4536-a57f-84beb67dae3d",
+      "login": "False"
     }
   ]
 }

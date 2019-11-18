@@ -1,11 +1,11 @@
 const fs = require('fs');
 const { generateId } = require('../utils')
 
-// const token = generacionToken;
+
 const controladorRegistro = (req,res) => {
     const user = req.body;
     const dbUser = JSON.parse(fs.readFileSync('./BaseDeDatos/usuarios.json', 'utf-8'))
-
+    
     const logintudcontrasenya = /.{8,12}/
 
     if(!logintudcontrasenya.test(user.contrasenya)){
@@ -22,6 +22,7 @@ const controladorRegistro = (req,res) => {
             .status(400)
             .json({ mensaje: `email ya existe`})
             }
+            user.idusuario = dbUser.usuarios.length + 1
             user.token = generateId();
             user.login = "False";
             dbUser.usuarios.push(user)
