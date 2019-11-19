@@ -2,7 +2,7 @@ const fs = require('fs');
 const f = new Date();
 let fechaActual = f.getDate() + '/' + (f.getMonth() + 1) + '/' + f.getFullYear() + '  ' + f.getHours() + ':' + f.getMinutes();
 let fechaEntregar = (f.getDate() + 5) + '/' + (f.getMonth() + 1) + '/' + f.getFullYear() + '  ' + f.getHours() + ':' + f.getMinutes();
-const prueba = (req, res) => {
+const controladorEntrega = (req, res) => {
     const user = req.body;
     const dbEntrega = JSON.parse(fs.readFileSync('./BaseDeDatos/entrega.json', 'utf-8'));
     const dbPeliculas = JSON.parse(fs.readFileSync('./BaseDeDatos/peliculas.json', 'utf-8'));
@@ -12,7 +12,7 @@ const prueba = (req, res) => {
     const buscarPelicula = dbPeliculas.peliculas.find(pelicula => pelicula.idpelicula === user.idpelicula);
     const buscarUsuario = dbUsuario.usuarios.find(usuario => usuario.idusuario === user.idusuario);
 
-    if(!comprobacion){
+    if (!comprobacion) {
         if (buscarPelicula) {
             if (buscarUsuario) {
                 user.nombre = buscarUsuario.nombre;
@@ -36,12 +36,12 @@ const prueba = (req, res) => {
                 .status(400)
                 .json({ mensaje: 'No se encontro la pelicula' })
         }
-    }else{
+    } else {
         res
-        .status(400)
-        .json({mensaje:'Solo se puede alquilar una pelicula a la vez'})
+            .status(400)
+            .json({ mensaje: 'Solo se puede alquilar una pelicula a la vez' })
     }
 
- }
+}
 
-module.exports = prueba
+module.exports = controladorEntrega
