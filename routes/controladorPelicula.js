@@ -12,7 +12,7 @@ router.get('/mostrarid/:id', verPeliculasID)
 
 
 // Genero: Accion, Aventura, Animacion, Terror,Crimen,Fantasia, Ciencia Ficcion
-router.get('/mostrargenero', verPeliculasGenero);
+router.get('/mostrargenero/:genre', verPeliculasGenero);
 
 router.post('/entregarpelicula', entregarPeliculas)
 

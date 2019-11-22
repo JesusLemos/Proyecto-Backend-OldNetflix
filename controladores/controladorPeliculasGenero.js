@@ -2,7 +2,7 @@ const fs = require('fs')
 
 const mostrarPeliculaGenero = (req, res) => {
 
- const pelicula = req.body;
+ const pelicula = req.params;
  const dbPeliculas = JSON.parse(fs.readFileSync('./BaseDeDatos/peliculas.json', 'utf-8'))
  const filtroID = dbPeliculas.peliculas.filter(peliculas => peliculas.genre === pelicula.genre)
 
