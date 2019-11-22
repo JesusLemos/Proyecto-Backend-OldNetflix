@@ -8,10 +8,12 @@ let verTodadPeliculas = require('../controladores/controladorTodasPeliculas')
 
 
 router.get('/mostrartodo', verTodadPeliculas)
-router.get('/mostrarid', verPeliculasID)
+router.get('/mostrarid/:id', verPeliculasID)
+
 
 // Genero: Accion, Aventura, Animacion, Terror,Crimen,Fantasia, Ciencia Ficcion
 router.get('/mostrargenero', verPeliculasGenero);
+
 router.post('/entregarpelicula', entregarPeliculas)
 
 

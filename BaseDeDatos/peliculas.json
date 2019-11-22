@@ -1,6 +1,7 @@
 {
     "peliculas": [
         {
+            "actor":"Will Smith",
             "popularity": 556.715,
             "vote_count": 5288,
             "video": false,
@@ -17,6 +18,7 @@
             "release_date": "2019-10-02"
         },
         {
+            "actor":"Johnny Deep",
             "popularity": 263.869,
             "vote_count": 494,
             "video": false,
@@ -33,6 +35,7 @@
             "release_date": "2019-10-23"
         },
         {
+            "actor":"Adam Sandler",
             "popularity": 127.498,
             "vote_count": 8330,
             "video": false,
@@ -49,6 +52,7 @@
             "release_date": "2006-06-08"
         },
         {
+            "actor":"Vin Diesel",
             "popularity": 170.364,
             "vote_count": 0,
             "video": false,
@@ -65,6 +69,7 @@
             "release_date": "2019-12-20"
         },
         {
+            "actor":"Will Smith",
             "popularity": 147.202,
             "vote_count": 3498,
             "video": false,
@@ -81,6 +86,7 @@
             "release_date": "2019-07-12"
         },
         {
+            "actor":"Jackie Chan",
             "popularity": 133.559,
             "vote_count": 811,
             "video": false,
@@ -97,6 +103,7 @@
             "release_date": "2019-10-16"
         },
         {
+            "actor":"Adam Sandler",
             "popularity": 119.524,
             "vote_count": 268,
             "video": false,
@@ -113,6 +120,7 @@
             "release_date": "2019-08-08"
         },
         {
+            "actor":"Johnny Depp",
             "popularity": 137.61,
             "vote_count": 28,
             "video": false,
@@ -129,6 +137,7 @@
             "release_date": "2019-11-11"
         },
         {
+            "actor":"Jackie Chan",
             "popularity": 135.808,
             "vote_count": 1847,
             "video": false,
@@ -145,6 +154,7 @@
             "release_date": "2019-08-01"
         },
         {
+            "actor":"Morgan Freeman",
             "popularity": 102.457,
             "vote_count": 4955,
             "video": false,
@@ -161,6 +171,7 @@
             "release_date": "2019-06-28"
         },
             {
+            "actor":"Brad Pitt",
             "popularity": 109.077,
             "vote_count": 312,
             "video": false,
@@ -177,6 +188,7 @@
             "release_date": "2019-10-30"
         },
             {
+            "actor":"Morgan Freeman",
             "popularity": 90.602,
             "vote_count": 4046,
             "video": false,
@@ -193,6 +205,7 @@
             "release_date": "2019-05-22"
         },
             {
+            "actor":"Angelina Jolie",
             "popularity": 92.474,
             "vote_count": 41,
             "video": false,
@@ -209,6 +222,7 @@
             "release_date": "2019-07-25"
         },
             {
+            "actor":"Brad Pitt",
             "popularity": 97.238,
             "vote_count": 2412,
             "video": false,
@@ -225,6 +239,7 @@
             "release_date": "2019-06-05"
         },
             {
+            "actor":"Will Smith",
             "popularity": 83.492,
             "vote_count": 15756,
             "video": false,
@@ -241,6 +256,7 @@
             "release_date": "2018-04-25"
         },
             {
+            "actor":"Jackie Chan",
             "popularity": 77.472,
             "vote_count": 1380,
             "video": false,
@@ -257,6 +273,7 @@
             "release_date": "2019-10-11"
         },
             {
+            "actor":"Angelina Jolie",
             "popularity": 77.312,
             "vote_count": 434,
             "video": false,
@@ -273,6 +290,7 @@
             "release_date": "2019-10-11"
         },
             {
+            "actor":"Robin Williams",
             "popularity": 69.025,
             "vote_count": 197,
             "video": false,
@@ -289,6 +307,7 @@
             "release_date": "2019-08-15"
         },
             {
+            "actor":"Leonardo Dicaprio",
             "popularity": 74.23,
             "vote_count": 142,
             "video": false,
@@ -305,6 +324,7 @@
             "release_date": "2019-11-08"
         },
             {
+            "actor":"Jennifer Aniston",
             "popularity": 71.643,
             "vote_count": 346,
             "video": false,
@@ -321,6 +341,7 @@
             "release_date": "2019-10-09"
         },
             {
+            "actor":"Jim Carrey",
             "popularity": 73.397,
             "vote_count": 365,
             "video": false,
@@ -338,6 +359,7 @@
             "release_date": "2019-08-14"
         },
             {
+            "actor":"Morgan Freeman",
             "popularity": 42.124,
             "idpelicula": 22,
             "video": false,
@@ -354,6 +376,7 @@
             "poster_path": "\/dMkoC0lDtXMTst6DuNDGZE7MhxL.jpg"
         },
             {
+            "actor":"Jackie Chan",
             "popularity": 58.876,
             "vote_count": 1176,
             "video": false,
@@ -370,6 +393,7 @@
             "release_date": "2019-05-30"
         },
             {
+            "actor":"Vin Diesel",
             "popularity": 69.077,
             "vote_count": 51,
             "video": false,
@@ -386,6 +410,7 @@
             "release_date": "2019-11-06"
         },
             {
+            "actor":"Adam Sandler",
             "popularity": 57.363,
             "vote_count": 1931,
             "video": false,
@@ -402,6 +427,7 @@
             "release_date": "2019-09-04"
         },
             {
+            "actor":"Angelina Jolie",
             "popularity": 57.934,
             "vote_count": 111,
             "video": false,
@@ -418,6 +444,7 @@
             "release_date": "2019-09-07"
         },
             {
+            "actor":"Jennifer Aniston",
             "popularity": 52.663,
             "vote_count": 524,
             "video": false,
@@ -434,6 +461,7 @@
             "release_date": "2019-10-02"
         },
             {
+            "actor":"Nicholas Cage",
             "popularity": 62.807,
             "vote_count": 183,
             "video": false,
@@ -450,6 +478,7 @@
             "release_date": "2018-12-20"
         },
             {
+            "actor":"Sandra Bullock",
             "popularity": 56.553,
             "vote_count": 3168,
             "video": false,
@@ -459,14 +488,14 @@
             "backdrop_path": "\/stemLQMLDrlpfIlZ5OjllOPT8QX.jpg",
             "original_language": "en",
             "original_title": "John Wick: Chapter 3 - Parabellum",
-            "genre": "Accion"
-            ,
+            "genre": "Accion",
             "title": "John Wick: Chapter 3 - Parabellum",
             "vote_average": 7.1,
             "overview": "Super-assassin John Wick returns with a $14 million price tag on his head and an army of bounty-hunting killers on his trail. After killing a member of the shadowy international assassin’s guild, the High Table, John Wick is excommunicado, but the world’s most ruthless hit men and women await his every turn.",
             "release_date": "2019-05-15"
         },
             {
+            "actor":"Nicholas Cage",
             "popularity": 67.402,
             "vote_count": 30,
             "video": false,
@@ -483,6 +512,7 @@
             "release_date": "2003-07-09"
         },
             {
+            "actor":"Jim Carrey",
             "popularity": 54.951,
             "vote_count": 2972,
             "video": false,
@@ -499,6 +529,7 @@
             "release_date": "2019-06-19"
         },
             {
+            "actor":"Jennifer Aniston",
             "popularity": 58.742,
             "vote_count": 2,
             "video": false,
@@ -515,6 +546,7 @@
             "release_date": "2019-05-03"
         },
             {
+            "actor":"Leonardo Dicaprio",
             "popularity": 52.576,
             "vote_count": 10,
             "video": false,
@@ -531,6 +563,7 @@
             "release_date": "2011-02-23"
         },
             {
+            "actor":"Sandra Bullock",
             "popularity": 57.265,
             "vote_count": 715,
             "video": false,
@@ -547,6 +580,7 @@
             "release_date": "2019-05-15"
         },
             {
+            "actor":"Bruce Willis",
             "popularity": 51.374,
             "vote_count": 5607,
             "video": false,
@@ -563,6 +597,7 @@
             "release_date": "2015-06-23"
         },
             {
+            "actor":"Tom Cruise",
             "popularity": 44.4,
             "vote_count": 6,
             "video": false,
@@ -579,6 +614,7 @@
             "release_date": "2019-11-08"
         },
             {
+            "actor":"Tom Hanks",
             "popularity": 32.613,
             "vote_count": 12,
             "video": false,
@@ -595,6 +631,7 @@
             "release_date": "2019-09-30"
         },
             {
+            "actor":"Cameron Diaz",
             "popularity": 54.291,
             "vote_count": 2,
             "video": false,
@@ -611,6 +648,7 @@
             "release_date": "2019-11-14"
         },
             {
+            "actor":"Tom Hanks",
             "popularity": 46.673,
             "vote_count": 11172,
             "video": false,
@@ -627,6 +665,7 @@
             "release_date": "2014-10-22"
         },
             {
+            "actor":"Tom Cruise",
             "popularity": 38.576,
             "vote_count": 0,
             "video": false,
@@ -643,6 +682,7 @@
             "release_date": "2019-11-07"
         },
             {
+            "actor":"Bruce Willis",
             "popularity": 39.748,
             "vote_count": 8931,
             "video": false,
@@ -659,6 +699,7 @@
             "release_date": "2014-12-10"
         },
             {
+            "actor":"Sandra Bullock",
             "popularity": 47.276,
             "vote_count": 15029,
             "video": false,
@@ -675,6 +716,7 @@
             "release_date": "2001-11-16"
         },
             {
+            "actor":"Cameron Diaz",
             "popularity": 53.395,
             "vote_count": 5611,
             "video": false,
@@ -691,6 +733,7 @@
             "release_date": "2018-12-06"
         },
             {
+            "actor":"Ben Stiller",
             "popularity": 51.42,
             "vote_count": 2579,
             "video": false,
@@ -707,6 +750,7 @@
             "release_date": "2019-07-25"
         },
             {
+            "actor":"Silvestre Stallone",
             "popularity": 44.438,
             "vote_count": 19142,
             "video": false,
@@ -723,6 +767,7 @@
             "release_date": "2014-07-30"
         },
             {
+            "actor":"Ben Stiller",
             "popularity": 43.349,
             "vote_count": 1,
             "video": false,
@@ -739,6 +784,7 @@
             "release_date": "1995-03-04"
         },
             {
+            "actor":"Julia Roberts",
             "popularity": 48.052,
             "vote_count": 296,
             "video": false,
@@ -755,6 +801,7 @@
             "release_date": "2019-03-13"
         },
             {
+            "actor":"Ben Stiller",
             "popularity": 46.483,
             "vote_count": 6,
             "video": false,
@@ -771,6 +818,7 @@
             "release_date": "2019-11-12"
         },
             {
+            "actor":"Cameron Diaz",
             "popularity": 33.064,
             "vote_count": 11176,
             "video": false,
@@ -787,6 +835,7 @@
             "release_date": "1994-05-07"
         },
             {
+            "actor":"Tom Cruise",
             "popularity": 38.713,
             "vote_count": 3753,
             "video": false,
@@ -803,6 +852,7 @@
             "release_date": "2019-01-31"
         },
             {
+            "actor":"Bruce Willis",
             "popularity": 45.988,
             "vote_count": 7413,
             "video": false,
@@ -819,6 +869,7 @@
             "release_date": "1984-10-26"
         },
             {
+            "actor":"Tom Cruise",
             "popularity": 38.487,
             "vote_count": 393,
             "video": false,
@@ -835,6 +886,7 @@
             "release_date": "2019-09-12"
         },
             {
+            "actor":"Jim Carrey",
             "popularity": 30.865,
             "vote_count": 10755,
             "video": false,
@@ -851,6 +903,7 @@
             "release_date": "2014-10-24"
         },
             {
+            "actor":"Jennifer Aniston",
             "popularity": 49.396,
             "vote_count": 7649,
             "video": false,
@@ -867,6 +920,7 @@
             "release_date": "2019-03-06"
         },
             {
+            "actor":"Will Smith",
             "popularity": 35.856,
             "vote_count": 9146,
             "video": false,
@@ -883,6 +937,7 @@
             "release_date": "2018-10-24"
         },
             {
+            "actor":"Johnny Depp",
             "popularity": 43.332,
             "vote_count": 10172,
             "video": false,
@@ -899,6 +954,7 @@
             "release_date": "2019-04-24"
         },
             {
+            "actor":"Adam Sandler",
             "popularity": 31.506,
             "vote_count": 8903,
             "video": false,
@@ -915,6 +971,7 @@
             "release_date": "2014-05-28"
         },
             {
+            "actor":"Vin Diesel",
             "popularity": 30.441,
             "vote_count": 411,
             "video": false,
@@ -931,6 +988,7 @@
             "release_date": "2019-05-16"
         },
             {
+            "actor":"Jackie Chan",
             "popularity": 41.969,
             "vote_count": 188,
             "video": false,
@@ -947,6 +1005,7 @@
             "release_date": "2019-10-10"
         },
             {
+            "actor":"Morgan Freeman",
             "popularity": 41.155,
             "vote_count": 9538,
             "video": false,
