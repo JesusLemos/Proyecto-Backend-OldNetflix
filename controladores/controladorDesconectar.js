@@ -5,7 +5,7 @@ const controladorDesconectar = (req, res) =>{
     const dbUser = JSON.parse(fs.readFileSync('./BaseDeDatos/usuarios.json', 'utf-8'))
 
     const buscarUsuario = dbUser.usuarios.find(usuario => usuario.correo === user.correo && usuario.contrasenya === user.contrasenya)
-    const comprobarLogin = dbUser.usuarios.find(usuario => usuario.login=== "True")
+    const comprobarLogin = dbUser.usuarios.find(usuario => usuario.login === "True")
     if(buscarUsuario){
         if(comprobarLogin){
             comprobarLogin.login="false"

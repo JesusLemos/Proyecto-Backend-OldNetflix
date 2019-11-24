@@ -4,7 +4,6 @@ const filtroActor = (req, res ) => {
     const actor = req.params.actor
     const dbPelicula = JSON.parse(fs.readFileSync('./BaseDeDatos/peliculas.json', 'utf-8')) 
 
-    console.log(actor)
     const buscarActor = dbPelicula.peliculas.filter(peliculasActor => peliculasActor.actor === actor)
     if(buscarActor){
         res

@@ -8,9 +8,9 @@ let mostrarPerfiles = require('../controladores/controladorPerfiles')
     
 
 router.post('/registro', registroUsuario)
-router.get('/login', loginUsuario)
-router.get('/desconectar', desconectarUsuario)
-router.get('/perfil', mostrarPerfiles)
+router.post('/login', loginUsuario)
+router.post('/desconectar', desconectarUsuario)
+router.get('/perfil/:token/:usuario', mostrarPerfiles)
 
 
 module.exports = router

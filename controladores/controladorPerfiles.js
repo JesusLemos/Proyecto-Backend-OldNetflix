@@ -2,10 +2,10 @@ const fs = require('fs');
 
 const perfiles = (req, res) => {
 
-    const user = req.body;
+    const user = req.params;
     const dbUser = JSON.parse(fs.readFileSync('./BaseDeDatos/usuarios.json', 'utf-8'))
 
-    const encontrarUsuario = dbUser.usuarios.find(usuarios => usuarios.token === user.token);
+    const encontrarUsuario = dbUser.usuarios.find(usuarios => usuarios.token === user.token && usuarios.usuario === user.usuario);
 
     if(encontrarUsuario){
         res

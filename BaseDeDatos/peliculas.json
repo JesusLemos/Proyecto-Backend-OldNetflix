@@ -2,7 +2,7 @@
     "peliculas": [
         {
             "actor":"Will Smith",
-            "estreno":"False",
+            "estreno":"false",
             "popularity": 556.715,
             "vote_count": 5288,
             "video": false,
@@ -20,7 +20,7 @@
         },
         {
             "actor":"Johnny Deep",
-            "estreno":"False",
+            "estreno":"true",
             "popularity": 263.869,
             "vote_count": 494,
             "video": false,
@@ -38,7 +38,7 @@
         },
         {
             "actor":"Adam Sandler",
-            "estreno":"False",
+            "estreno":"false",
             "popularity": 127.498,
             "vote_count": 8330,
             "video": false,
@@ -56,7 +56,7 @@
         },
         {
             "actor":"Vin Diesel",
-            "estreno":"False",
+            "estreno":"false",
             "popularity": 170.364,
             "vote_count": 0,
             "video": false,
@@ -74,7 +74,7 @@
         },
         {
             "actor":"Will Smith",
-            "estreno":"False",
+            "estreno":"false",
             "popularity": 147.202,
             "vote_count": 3498,
             "video": false,
@@ -92,7 +92,7 @@
         },
         {
             "actor":"Jackie Chan",
-            "estreno":"False",
+            "estreno":"false",
             "popularity": 133.559,
             "vote_count": 811,
             "video": false,
@@ -110,7 +110,7 @@
         },
         {
             "actor":"Adam Sandler",
-            "estreno":"False",
+            "estreno":"false",
             "popularity": 119.524,
             "vote_count": 268,
             "video": false,
@@ -128,7 +128,7 @@
         },
         {
             "actor":"Johnny Depp",
-            "estreno":"False",
+            "estreno":"false",
             "popularity": 137.61,
             "vote_count": 28,
             "video": false,
@@ -146,7 +146,7 @@
         },
         {
             "actor":"Jackie Chan",
-            "estreno":"False",
+            "estreno":"false",
             "popularity": 135.808,
             "vote_count": 1847,
             "video": false,
@@ -164,7 +164,7 @@
         },
         {
             "actor":"Morgan Freeman",
-            "estreno":"False",
+            "estreno":"false",
             "popularity": 102.457,
             "vote_count": 4955,
             "video": false,
@@ -182,7 +182,7 @@
         },
             {
             "actor":"Brad Pitt",
-            "estreno":"False",
+            "estreno":"true",
             "popularity": 109.077,
             "vote_count": 312,
             "video": false,
@@ -200,7 +200,7 @@
         },
             {
             "actor":"Morgan Freeman",
-            "estreno":"False",
+            "estreno":"false",
             "popularity": 90.602,
             "vote_count": 4046,
             "video": false,
@@ -218,7 +218,7 @@
         },
             {
             "actor":"Angelina Jolie",
-            "estreno":"False",
+            "estreno":"true",
             "popularity": 92.474,
             "vote_count": 41,
             "video": false,
@@ -236,7 +236,7 @@
         },
             {
             "actor":"Brad Pitt",
-            "estreno":"True",
+            "estreno":"false",
             "popularity": 97.238,
             "vote_count": 2412,
             "video": false,
@@ -254,7 +254,7 @@
         },
             {
             "actor":"Will Smith",
-            "estreno":"False",
+            "estreno":"true",
             "popularity": 83.492,
             "vote_count": 15756,
             "video": false,
@@ -272,7 +272,7 @@
         },
             {
             "actor":"Jackie Chan",
-            "estreno":"False",
+            "estreno":"false",
             "popularity": 77.472,
             "vote_count": 1380,
             "video": false,
@@ -290,7 +290,7 @@
         },
             {
             "actor":"Angelina Jolie",
-            "estreno":"False",
+            "estreno":"true",
             "popularity": 77.312,
             "vote_count": 434,
             "video": false,
@@ -308,7 +308,7 @@
         },
             {
             "actor":"Robin Williams",
-            "estreno":"False",
+            "estreno":"false",
             "popularity": 69.025,
             "vote_count": 197,
             "video": false,
@@ -326,7 +326,7 @@
         },
             {
             "actor":"Leonardo Dicaprio",
-            "estreno":"False",
+            "estreno":"false",
             "popularity": 74.23,
             "vote_count": 142,
             "video": false,
@@ -344,7 +344,7 @@
         },
             {
             "actor":"Jennifer Aniston",
-            "estreno":"False",
+            "estreno":"false",
             "popularity": 71.643,
             "vote_count": 346,
             "video": false,
@@ -362,7 +362,7 @@
         },
             {
             "actor":"Jim Carrey",
-            "estreno":"False",
+            "estreno":"false",
             "popularity": 73.397,
             "vote_count": 365,
             "video": false,
@@ -381,10 +381,10 @@
         },
             {
             "actor":"Morgan Freeman",
-            "estreno":"True",
+            "estreno":"false",
             "popularity": 42.124,
             "idpelicula": 22,
-            "video": false,
+            "video": true,
             "vote_count": 3,
             "vote_average": 6.7,
             "title": "Porinju Mariam Jose",
@@ -399,7 +399,7 @@
         },
             {
             "actor":"Jackie Chan",
-            "estreno":"False",
+            "estreno":"false",
             "popularity": 58.876,
             "vote_count": 1176,
             "video": false,
@@ -417,7 +417,7 @@
         },
             {
             "actor":"Vin Diesel",
-            "estreno":"False",
+            "estreno":"false",
             "popularity": 69.077,
             "vote_count": 51,
             "video": false,
@@ -435,7 +435,7 @@
         },
             {
             "actor":"Adam Sandler",
-            "estreno":"False",
+            "estreno":"false",
             "popularity": 57.363,
             "vote_count": 1931,
             "video": false,
@@ -453,7 +453,7 @@
         },
             {
             "actor":"Angelina Jolie",
-            "estreno":"False",
+            "estreno":"false",
             "popularity": 57.934,
             "vote_count": 111,
             "video": false,
@@ -471,7 +471,7 @@
         },
             {
             "actor":"Jennifer Aniston",
-            "estreno":"False",
+            "estreno":"false",
             "popularity": 52.663,
             "vote_count": 524,
             "video": false,
@@ -489,7 +489,7 @@
         },
             {
             "actor":"Nicholas Cage",
-            "estreno":"False",
+            "estreno":"false",
             "popularity": 62.807,
             "vote_count": 183,
             "video": false,
@@ -507,7 +507,7 @@
         },
             {
             "actor":"Sandra Bullock",
-            "estreno":"True",
+            "estreno":"false",
             "popularity": 56.553,
             "vote_count": 3168,
             "video": false,
@@ -525,7 +525,7 @@
         },
             {
             "actor":"Nicholas Cage",
-            "estreno":"True",
+            "estreno":"false",
             "popularity": 67.402,
             "vote_count": 30,
             "video": false,
@@ -543,7 +543,7 @@
         },
             {
             "actor":"Jim Carrey",
-            "estreno":"False",
+            "estreno":"false",           
             "popularity": 54.951,
             "vote_count": 2972,
             "video": false,
@@ -561,7 +561,7 @@
         },
             {
             "actor":"Jennifer Aniston",
-            "estreno":"False",
+            "estreno":"false",           
             "popularity": 58.742,
             "vote_count": 2,
             "video": false,
@@ -579,7 +579,7 @@
         },
             {
             "actor":"Leonardo Dicaprio",
-            "estreno":"False",
+            "estreno":"true",           
             "popularity": 52.576,
             "vote_count": 10,
             "video": false,
@@ -597,7 +597,7 @@
         },
             {
             "actor":"Sandra Bullock",
-            "estreno":"False",
+            "estreno":"false",           
             "popularity": 57.265,
             "vote_count": 715,
             "video": false,
@@ -615,7 +615,7 @@
         },
             {
             "actor":"Bruce Willis",
-            "estreno":"False",
+            "estreno":"false",           
             "popularity": 51.374,
             "vote_count": 5607,
             "video": false,
@@ -633,7 +633,7 @@
         },
             {
             "actor":"Tom Cruise",
-            "estreno":"False",
+            "estreno":"false",           
             "popularity": 44.4,
             "vote_count": 6,
             "video": false,
@@ -651,7 +651,7 @@
         },
             {
             "actor":"Tom Hanks",
-            "estreno":"True",
+            "estreno":"false",           
             "popularity": 32.613,
             "vote_count": 12,
             "video": false,
@@ -669,7 +669,7 @@
         },
             {
             "actor":"Cameron Diaz",
-            "estreno":"False",
+            "estreno":"false",           
             "popularity": 54.291,
             "vote_count": 2,
             "video": false,
@@ -687,7 +687,7 @@
         },
             {
             "actor":"Tom Hanks",
-            "estreno":"False",
+            "estreno":"false",
             "popularity": 46.673,
             "vote_count": 11172,
             "video": false,
@@ -705,7 +705,7 @@
         },
             {
             "actor":"Tom Cruise",
-            "estreno":"False",
+            "estreno":"false",
             "popularity": 38.576,
             "vote_count": 0,
             "video": false,
@@ -723,7 +723,7 @@
         },
             {
             "actor":"Bruce Willis",
-            "estreno":"False",
+            "estreno":"false",
             "popularity": 39.748,
             "vote_count": 8931,
             "video": false,
@@ -741,7 +741,7 @@
         },
             {
             "actor":"Sandra Bullock",
-            "estreno":"True",
+            "estreno":"false",
             "popularity": 47.276,
             "vote_count": 15029,
             "video": false,
@@ -759,7 +759,7 @@
         },
             {
             "actor":"Cameron Diaz",
-            "estreno":"False",
+            "estreno":"false",
             "popularity": 53.395,
             "vote_count": 5611,
             "video": false,
@@ -777,7 +777,7 @@
         },
             {
             "actor":"Ben Stiller",
-            "estreno":"False",
+            "estreno":"false",
             "popularity": 51.42,
             "vote_count": 2579,
             "video": false,
@@ -795,7 +795,7 @@
         },
             {
             "actor":"Silvestre Stallone",
-            "estreno":"False",
+            "estreno":"false",
             "popularity": 44.438,
             "vote_count": 19142,
             "video": false,
@@ -813,7 +813,7 @@
         },
             {
             "actor":"Ben Stiller",
-            "estreno":"False",
+            "estreno":"false",
             "popularity": 43.349,
             "vote_count": 1,
             "video": false,
@@ -831,7 +831,7 @@
         },
             {
             "actor":"Julia Roberts",
-            "estreno":"true",
+            "estreno":"false",
             "popularity": 48.052,
             "vote_count": 296,
             "video": false,
@@ -849,7 +849,7 @@
         },
             {
             "actor":"Ben Stiller",
-            "estreno":"False",
+            "estreno":"false",
             "popularity": 46.483,
             "vote_count": 6,
             "video": false,
@@ -867,7 +867,7 @@
         },
             {
             "actor":"Cameron Diaz",
-            "estreno":"False",
+            "estreno":"false",
             "popularity": 33.064,
             "vote_count": 11176,
             "video": false,
@@ -885,7 +885,7 @@
         },
             {
             "actor":"Tom Cruise",
-            "estreno":"False",
+            "estreno":"false",
             "popularity": 38.713,
             "vote_count": 3753,
             "video": false,
@@ -903,7 +903,7 @@
         },
             {
             "actor":"Bruce Willis",
-            "estreno":"True",
+            "estreno":"false",
             "popularity": 45.988,
             "vote_count": 7413,
             "video": false,
@@ -921,7 +921,7 @@
         },
             {
             "actor":"Tom Cruise",
-            "estreno":"False",
+            "estreno":"false",
             "popularity": 38.487,
             "vote_count": 393,
             "video": false,
@@ -939,7 +939,7 @@
         },
             {
             "actor":"Jim Carrey",
-            "estreno":"True",
+            "estreno":"false",
             "popularity": 30.865,
             "vote_count": 10755,
             "video": false,
@@ -957,7 +957,7 @@
         },
             {
             "actor":"Jennifer Aniston",
-            "estreno":"False",
+            "estreno":"false",
             "popularity": 49.396,
             "vote_count": 7649,
             "video": false,
@@ -975,7 +975,7 @@
         },
             {
             "actor":"Will Smith",
-            "estreno":"False",
+            "estreno":"false",
             "popularity": 35.856,
             "vote_count": 9146,
             "video": false,
@@ -993,7 +993,7 @@
         },
             {
             "actor":"Johnny Depp",
-            "estreno":"False",
+            "estreno":"false",
             "popularity": 43.332,
             "vote_count": 10172,
             "video": false,
@@ -1011,7 +1011,7 @@
         },
             {
             "actor":"Adam Sandler",
-            "estreno":"False",
+            "estreno":"true",           
             "popularity": 31.506,
             "vote_count": 8903,
             "video": false,
@@ -1029,7 +1029,7 @@
         },
             {
             "actor":"Vin Diesel",
-            "estreno":"True",
+            "estreno":"false",           
             "popularity": 30.441,
             "vote_count": 411,
             "video": false,
@@ -1047,7 +1047,7 @@
         },
             {
             "actor":"Jackie Chan",
-            "estreno":"False",
+            "estreno":"false",           
             "popularity": 41.969,
             "vote_count": 188,
             "video": false,
@@ -1065,7 +1065,7 @@
         },
             {
             "actor":"Morgan Freeman",
-            "estreno":"True",
+            "estreno":"true",           
             "popularity": 41.155,
             "vote_count": 9538,
             "video": false,
