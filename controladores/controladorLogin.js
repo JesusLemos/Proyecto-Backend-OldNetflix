@@ -10,8 +10,8 @@ const controladorLogin = (req, res) => {
 
     if (buscarUsuario) {
         
-        buscarUsuario.login = "True"
-        console.log(buscarUsuario)
+        buscarUsuario.login = "True";
+        console.log(buscarUsuario);
         fs.writeFileSync('./BaseDeDatos/usuarios.json', JSON.stringify(dbUser, null, 2));
 
         res
