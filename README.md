@@ -32,7 +32,33 @@ Proyecto2 "Old Netflix" parte del Back-End
     
     
   # Endpoint disponibles
+  El puerto que se esta usando es el puerto 3000 
   
+  Endpoint Usuario
   
+    /usuario/registro
+
+    /usuario/login
+
+    /usuario/desconectar
+
+    /usuario/perfil/:token/:usuario
+   
+ Endpoint Peliculas
+    
+    /peliculas/mostrartodo
+    
+    /peliculas/mostrarid/:idpelicula
+    
+    /peliculas/mostrargenero/:genre
+    
+    /peliculas/mostrartitulo/:titulo
+    
+    /peliculas/mostrarestrenos/:estreno
+ 
+ Endpoint Pedidos
+    /peliculas/entregarpelicula
+ 
+
     
   
