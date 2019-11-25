@@ -1,13 +1,13 @@
 var express = require('express');
 var router = express.Router();
 
-let verPeliculasID = require('../controladores/controladorPeliculasID')
-let verPeliculasGenero = require('../controladores/controladorPeliculasGenero')
-let entregarPeliculas = require('../controladores/controladorEntrega')
-let verTodadPeliculas = require('../controladores/controladorTodasPeliculas')
-let verPeliculasActor = require('../controladores/controladorPeliculasActores')
-let verPeliculasTitulo = require('../controladores/controladorPeliculasTitulo')
-let verPeliculasEstrenos = require('../controladores/controladorEstrenos')
+let verPeliculasID = require('../controladores/controladorPeliculasID');
+let verPeliculasGenero = require('../controladores/controladorPeliculasGenero');
+let entregarPeliculas = require('../controladores/controladorEntrega');
+let verTodadPeliculas = require('../controladores/controladorTodasPeliculas');
+let verPeliculasActor = require('../controladores/controladorPeliculasActores');
+let verPeliculasTitulo = require('../controladores/controladorPeliculasTitulo');
+let verPeliculasEstrenos = require('../controladores/controladorEstrenos');
 
 router.get('/mostrartodo', verTodadPeliculas)
 
