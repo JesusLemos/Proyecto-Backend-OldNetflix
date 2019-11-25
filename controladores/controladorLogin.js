@@ -16,12 +16,12 @@ const controladorLogin = (req, res) => {
 
         res
             .status(200)
-            .json({ mensaje: "Te has conectado correctamente" })
+            .json({ mensaje: "Te has conectado correctamente" });
     } else {
         console.log({buscarUsuario})
         res
             .status(400)
-            .json({ mensaje: "El nombre o la contraseña no coinciden" })
+            .json({ mensaje: "El nombre o la contraseña no coinciden" });
     }
 }
 
