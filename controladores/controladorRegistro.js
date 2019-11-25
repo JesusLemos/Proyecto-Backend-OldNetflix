@@ -4,21 +4,21 @@ const { generateId } = require('../utils')
 
 const controladorRegistro = (req, res) => {
     const user = req.body;
-    const dbUser = JSON.parse(fs.readFileSync('./BaseDeDatos/usuarios.json', 'utf-8'))
+    const dbUser = JSON.parse(fs.readFileSync('./BaseDeDatos/usuarios.json', 'utf-8'));
 
-    const logintudcontrasenya = /.{8,12}/
-    const nombreUsuario = dbUser.usuarios.some(usuario => usuario.usuario === user.usuario)
+    const logintudcontrasenya = /.{8,12}/;
+    const nombreUsuario = dbUser.usuarios.some(usuario => usuario.usuario === user.usuario);
     if (!logintudcontrasenya.test(user.contrasenya)) {
         return res
             .status(400)
-            .json({ mensaje: "La contrasenya tiene que tener entre 8 a 12 caracteres" })
-    }
+            .json({ mensaje: "La contrasenya tiene que tener entre 8 a 12 caracteres" });
+    };
     if (nombreUsuario) {
         return res
             .status(400)
-            .json({ mensaje: "El nombre de usuario ya existe" })
+            .json({ mensaje: "El nombre de usuario ya existe" });
 
-    }
+    };
 
 
 
