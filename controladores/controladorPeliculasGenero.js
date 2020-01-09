@@ -4,8 +4,8 @@ const filtroGenero = (req, res) => {
 
  const pelicula = req.params.genre;
  const dbPeliculas = JSON.parse(fs.readFileSync('./BaseDeDatos/peliculas.json', 'utf-8'))
- const filtroID = dbPeliculas.peliculas.filter(peliculas => peliculas.genre === pelicula.genre)
-
+ const filtroID = dbPeliculas.peliculas.filter(peliculas => peliculas.genre === pelicula)
+console.log(filtroID)
     
  
  if (filtroID){

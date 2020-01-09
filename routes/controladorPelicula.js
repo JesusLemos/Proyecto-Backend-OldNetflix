@@ -8,16 +8,18 @@ let verTodadPeliculas = require('../controladores/controladorTodasPeliculas');
 let verPeliculasActor = require('../controladores/controladorPeliculasActores');
 let verPeliculasTitulo = require('../controladores/controladorPeliculasTitulo');
 let verPeliculasEstrenos = require('../controladores/controladorEstrenos');
+let verPeliculasPopulares = require('../controladores/controladorPeliculasPopulares');
 
-router.get('/mostrartodo', verTodadPeliculas)
+router.get('/mostrartodo', verTodadPeliculas);
 
-router.get('/mostrarid/:idpelicula', verPeliculasID)
+router.get('/peliculaspopulares', verPeliculasPopulares);
 
+router.get('/mostrarid/:idpelicula', verPeliculasID);
 
 // Genero: Accion, Aventura, Animacion, Terror,Crimen,Fantasia, Ciencia Ficcion
 router.get('/mostrargenero/:genre', verPeliculasGenero);
 
-router.get('/mostraractor/:actor', verPeliculasActor)
+router.get('/mostraractor/:actor', verPeliculasActor);
 
 router.get('/mostrartitulo/:titulo', verPeliculasTitulo)
 
